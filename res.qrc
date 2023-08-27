@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="1">QTIkun1.png</file>
+        <file alias="2">QTIkun2.png</file>
+        <file alias="3">HaiIKUN.mp3</file>
+    </qresource>
+</RCC>
